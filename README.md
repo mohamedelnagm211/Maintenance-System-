@@ -13,5 +13,4 @@ will get feedback from customer and write its own  also
 **Other Design Patterns**
 
 
-##
-Project without war file :)
+###Project without war file :)
